@@ -15,3 +15,8 @@ Small prototype application introducing to tools and concepts of Unity by creati
 - Navigation in the scene view
 - GameObject manipulation tools
 
+## Rigidbody and scripting (1.2)
+
+- Rigidbody component 
+- Scripting in Unity
+  - Moving object at a constant speed (using deltaTime)
