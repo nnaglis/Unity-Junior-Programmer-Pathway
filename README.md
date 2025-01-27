@@ -36,3 +36,13 @@ Small prototype application introducing to tools and concepts of Unity by creati
   - Using Input.GetAxis
 - Parenting objects
 - Scripting player rotation
+
+![](Prototype-1/Recordings/Prototype-1.gif)
+
+## Challenge
+
+- from a given scene of a plane with obstacles, create a script that will move the plane forward and make it go up and down when the player presses up and down arrow keys.
+- make the camera follow the plane smoothly
+- make the propeller rotate
+
+![](Prototype-1/Recordings/Challenge.gif)
