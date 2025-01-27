@@ -28,3 +28,11 @@ Small prototype application introducing to tools and concepts of Unity by creati
 - Variables
   - Access modifiers
   - Variables accessible in the inspector  
+
+## User Input (1.4)
+
+- User input in Unity
+- Scripting player movement
+  - Using Input.GetAxis
+- Parenting objects
+- Scripting player rotation
