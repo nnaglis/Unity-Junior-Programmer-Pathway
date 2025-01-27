@@ -20,3 +20,11 @@ Small prototype application introducing to tools and concepts of Unity by creati
 - Rigidbody component 
 - Scripting in Unity
   - Moving object at a constant speed (using deltaTime)
+
+## Camera (1.3)
+
+- Scripting camera movement
+  - Smooth follow
+- Variables
+  - Access modifiers
+  - Variables accessible in the inspector  
